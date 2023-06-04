@@ -7,7 +7,7 @@ This is a casual project that fetches the top stories from Hacker News and sends
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/hackernews-to-kindle.git
+git clone https://github.com/kacesensitive/hackernews-to-kindle.git
 ```
 
 2. Navigate to the cloned repository.
